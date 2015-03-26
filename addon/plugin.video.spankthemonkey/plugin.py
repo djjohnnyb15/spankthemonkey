@@ -15,7 +15,7 @@ except Exception, e:
 
 net = Net()
 
-base_url = 'http://spankthemonkey.googlecode.com/svn/trunk/list/Main.xml'
+base_url = 'https://raw.githubusercontent.com/djjohnnyb15/spankthemonkey/master/playlists/main.xml'
 no_image = 'https://corsetsandcutlasses.files.wordpress.com/2013/12/cover-not-yet-available.jpg'
 delImage = 'http://www.muziejusalka.lt/files/upload/big_D%C4%97mesio.png'
 retry_image = 'http://cdn3.iconfinder.com/data/icons/3d-printing-icon-set/256/Refresh.png'
